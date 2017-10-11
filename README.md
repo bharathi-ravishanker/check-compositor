@@ -1,0 +1,2 @@
+# check-compositor
+Check compositor
