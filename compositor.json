@@ -45,7 +45,7 @@
     },
     {
       "component": "header",
-      "heading": "check-compositor",
+      "heading": "Bharathi Ravishanker",
       "subhead": "Check compositor",
       "children": [
         {
@@ -58,7 +58,21 @@
           "user": "bharathi-ravishanker",
           "repo": "check-compositor"
         }
-      ]
+      ],
+      "slug": "",
+      "text": "this is the content of the sub head",
+      "links": [
+        {
+          "href": "https://www.linkedin.com/in/bharathiravishanker/",
+          "text": "LinkedIn"
+        },
+        {
+          "href": "https://www.facebook.com/bharathi.ravishanker",
+          "text": "Facebook"
+        }
+      ],
+      "image": "",
+      "backgroundImage": ""
     },
     {
       "component": "article",
